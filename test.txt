@@ -1,5 +1,5 @@
 git is a good tools !
 git is a very good tools!!!
 
-modify to prepare checkout
+modified to prepare git stash
 
